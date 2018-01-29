@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1504144181 source:c:\users\bijayraj123\desktop\first\dice.cpp
+	"dice.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1504144144 c:\users\bijayraj123\desktop\first\dice.h
+
+1385320478 source:c:\users\bijayraj123\desktop\first\main.cpp
+	<iostream>
+
+1504145396 source:c:\users\bijayraj123\desktop\first\player.cpp
+	"player.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1504145260 c:\users\bijayraj123\desktop\first\player.h
+	<string>
+
+1504284469 source:j:\projects\first\player.cpp
+	"player.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1504284469 j:\projects\first\player.h
+	<string>
+
+1504284469 source:j:\projects\first\dice.cpp
+	"dice.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1504284469 j:\projects\first\dice.h
+
+1504284900 source:j:\projects\second\main.cpp
+	<iostream>
+	<string>
+	"player.h"
+	"dice.h"
+
+1504284469 j:\projects\second\player.h
+	<string>
+
+1504284469 j:\projects\second\dice.h
+
+1504284469 source:j:\projects\second\player.cpp
+	"player.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1504284469 source:j:\projects\second\dice.cpp
+	"dice.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
