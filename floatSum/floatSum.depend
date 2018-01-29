@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509559222 source:j:\projects\ds\floatsum\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<ctime>
+	<chrono>
+
