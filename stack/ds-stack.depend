@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1508954105 source:j:\projects\ds\ds-stack\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"StackType.h"
+	"StackType.h"
+	"errorClasses.h"
+
+1508953781 j:\projects\ds\ds-stack\stacktype.h
+	"ItemType.h"
+	"errorClasses.h"
+
+1508952982 j:\projects\ds\ds-stack\itemtype.h
+
+1508954274 j:\projects\ds\ds-stack\errorclasses.h
+	<string>
+
+1508954338 source:j:\projects\ds\ds-stack\stacktype.cpp
+	"StackType.h"
+
