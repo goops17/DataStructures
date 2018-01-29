@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509126548 source:j:\projects\ds\vector\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
