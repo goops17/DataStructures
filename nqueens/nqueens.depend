@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510269766 source:j:\projects\ds\nqueens\main.cpp
+	<iostream>
+	"nQueensPuzzle.h"
+
+1510595277 j:\projects\ds\nqueens\nqueenspuzzle.h
+
+1510270082 source:j:\projects\ds\nqueens\nqueenspuzzle.cpp
+	"nQueensPuzzle.h"
+	<iostream>
+	<cmath>
+
