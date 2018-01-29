@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1472235540 source:j:\my_docs\csc_310datastructures\progs2017\libraries\deck.cpp
+	<iostream>
+	"Deck.h"
+	<cstdlib>
+	<time.h>
+
+1472235538 j:\my_docs\csc_310datastructures\progs2017\libraries\deck.h
+	"unsorted.h"
+
+1505162931 j:\my_docs\csc_310datastructures\progs2017\libraries\unsorted.h
+	"../Libraries/ItemTypeCard/ItemType.h"
+
+1472235540 j:\my_docs\csc_310datastructures\progs2017\libraries\itemtypecard\itemtype.h
+	<string>
+
+1472235540 source:j:\my_docs\csc_310datastructures\progs2017\libraries\itemtypecard\itemtype.cpp
+	"ItemType.h"
+
+1472235538 source:j:\my_docs\csc_310datastructures\progs2017\libraries\unsorted.cpp
+	"unsorted.h"
+
+1505163012 source:j:\my_docs\csc_310datastructures\progs2017\deckofcards\main.cpp
+	<iostream>
+	"../Libraries/deck.h"
+
+1472239140 source:j:\projects\ds\libraries\deck.cpp
+	<iostream>
+	"Deck.h"
+	<cstdlib>
+	<time.h>
+
+1472239138 j:\projects\ds\libraries\deck.h
+	"unsorted.h"
+
+1505166532 j:\projects\ds\libraries\unsorted.h
+	"../Libraries/ItemTypeCard/ItemType.h"
+
+1472239140 j:\projects\ds\libraries\itemtypecard\itemtype.h
+	<string>
+
+1472239138 source:j:\projects\ds\libraries\unsorted.cpp
+	"unsorted.h"
+
+1506360783 source:j:\projects\ds\new\main.cpp
+	<iostream>
+	"../Libraries/deck.h"
+	"../Libraries/player.h"
+	<string>
+
+1472239140 source:j:\projects\ds\libraries\itemtypecard\itemtype.cpp
+	"ItemType.h"
+
+1505152305 source:j:\projects\ds\libraries\player.cpp
+	"player.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1505151738 j:\projects\ds\libraries\player.h
+	<string>
+
