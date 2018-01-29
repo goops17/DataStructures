@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1505153609 source:j:\projects\ds\libraries\dice.cpp
+	"dice.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1505153357 j:\projects\ds\libraries\dice.h
+
+1505152305 source:j:\projects\ds\libraries\player.cpp
+	"player.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1505151738 j:\projects\ds\libraries\player.h
+	<string>
+
+1505497518 source:j:\projects\ds\doublesixes\main.cpp
+	<iostream>
+	<string>
+	"Libraries/dice.h"
+	"Libraries/player.h"
+
+1505153357 j:\projects\ds\doublesixes\libraries\dice.h
+
+1505151738 j:\projects\ds\doublesixes\libraries\player.h
+	<string>
+
