@@ -1,5 +1,5 @@
 # Double Sixes - dice game (kinda like BlackJack)
-###The game logic will play out like this:
+### The game logic will play out like this:
 
 1.  Computer asks for player’s name (1 – 5) (first name only for this game) store that as a player object.
 
