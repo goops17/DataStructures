@@ -11,25 +11,25 @@ The error in adding a large number of values grows proportionally to n. With the
 
 Here is the pseudocode for the algorithm (wikipedia):
 
-function KahanSum(input)
+    function KahanSum(input)
 
-  var sum = 0.0
+      var sum = 0.0
 
-  var c = 0.0
+      var c = 0.0
 
-  for i = 1 to input.length 
+      for i = 1 to input.length 
 
-    var y = input[i] - c
+        var y = input[i] - c
 
-    var t = sum + y
+        var t = sum + y
 
-    c = (t - sum) - y
+        c = (t - sum) - y
 
-    sum = t
+        sum = t
 
-  next i
+      next i
 
-  return sum
+    return sum
 
 In this program, you will write a program that uses three methods to sum floating point numbers stored in a vector.  You will generate 30000 random floating point doubles within the range of 100.0 to 500.0.  You will then create three functions - 1) will use the Kahan Summation Algorithm to provide a sum of the vector values 2) will simply add them using a regular loop and 3) will use a recursive function with a base case of vector.empty().  Perform #3 last because you will have to pop off the values as you sum them in order to meet your base case.  
 
